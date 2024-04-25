@@ -10,8 +10,8 @@
 - 📫 How to reach me **at shiera.laran@gmail.com**
 - 🌱 I’m currently learning **Responsive Web Design and Front End Development certifications**
 - 💞️ I’m looking to collaborate on **Open-source projects and learning challenges**
-- ⚡ Fun fact: **When I was in college, I skip computer classes cause I hate it so much... 
-    look where I am now 😅**
+- ⚡ Fun fact: **When I was in college, I skip computer classes cause I hate it so much... <br>
+  😅 look where I am now 👩🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

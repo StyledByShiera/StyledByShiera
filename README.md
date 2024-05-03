@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a career shifter making my way into the world of code. Let's Learn Together! ✨</h3>
 
-<img align="right" height="350" width=“500” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/Images/Shiera_png_july2022.png?raw=true"  />
+<img align="right" height="300" width=“300” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/Images/Shiera_png_july2022.png?raw=true"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styledbyshiera&label=Profile%20views&color=0e75b6&style=flat" alt="styledbyshiera" /> </p>
 

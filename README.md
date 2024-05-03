@@ -1,8 +1,10 @@
-![MasterHead](https://github.com/StyledByShiera/Front-End-Public/blob/main/Images/Blue%20Cute%20Playful%20Birthday%20Party%20Kids%20Banner.jpg?raw=true)
+<h1 align="center"> <img align=“center” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/GIF/GIF2-README-ezgif.com-video-to-gif-converter.gif?raw=true" /> </h1>
 
 <h1 align="center">👋 Hi, I'm Shiera Laran</h1>
+
 <h3 align="center">I'm a career shifter making my way into the world of code. Let's Learn Together! ✨</h3>
-<img align="right" height="150" width=“400” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/GIF/StyledByShieraGIF2-ezgif.com-video-to-gif-converter.gif?raw=true"  />
+
+<img align="right" height="350" width=“500” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/Images/Shiera_png_july2022.png?raw=true"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styledbyshiera&label=Profile%20views&color=0e75b6&style=flat" alt="styledbyshiera" /> </p>
 
@@ -30,4 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styledbyshiera&show_icons=true&locale=en" alt="styledbyshiera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=styledbyshiera&" alt="styledbyshiera" /></p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 

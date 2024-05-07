@@ -1,4 +1,4 @@
-<h1 align="center"> <img align=“center” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/GIF/GIF2-README-ezgif.com-video-to-gif-converter.gif?raw=true](https://github.com/StyledByShiera/Front-End-Public/blob/main/GIF/ReadMeGIF-ezgif.com-video-to-gif-converter.gif?raw=true)" /> </h1>
+<h1 align="center"> <img align=“center” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/Programming/GIF/ReadMeGIF-ezgif.com-video-to-gif-converter.gif?raw=true" /> </h1>
 
 <h1 align="center">👋 Hi, I'm Shiera Laran</h1>
 

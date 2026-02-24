@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Shiera Laran</h1>
 
-<h3 align="center">I'm a career shifter making my way into the world of code. Let's Learn Together! ✨</h3>
+<h3 align="center">Working on my future "IRAH Web Application Software", see you at launch day! ✨</h3>
 
 <img align="right" height="300" width=“300” src="https://github.com/StyledByShiera/Front-End-Public/blob/main/Programming/Images/Shiera_png_july2022.png?raw=true"  />
 

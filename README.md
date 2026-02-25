@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=styledbyshiera&label=Profile%20views&color=0e75b6&style=flat" alt="styledbyshiera" /> </p>
 
-- 👀 I’m interested in **Web and Mobile App Development**
+- 👀 I’m learning to be a Start-up Founder ~ Web and Mobile Application Software**
 - 📫 How to reach me **at shiera.laran@gmail.com**
-- 🌱 I’m currently learning **Responsive Web Design and Front End Development certifications**
+- 🌱 I’m currently learning **Everything from Scratch ~ Not a Technical person and minimal to no coding knowledge**
 - 💞️ I’m looking to collaborate on **Open-source projects and learning challenges**
 - ⚡ Fun fact: **When I was in college, I skip computer classes cause I hate it so much... <br>
   😅 look where I am now 👩🏻‍💻**

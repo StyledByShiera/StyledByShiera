@@ -14,6 +14,7 @@
 - 💞️ I’m looking to collaborate on **Open-source projects and learning challenges**
 - ⚡ Fun fact: **When I was in college, I skip computer classes cause I hate it so much... <br>
   😅 look where I am now 👩🏻‍💻**
+- 🎯 Goals/Dreams now on lock mode 🔒
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
